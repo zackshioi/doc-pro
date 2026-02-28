@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Runtime artifacts
+data/
+query_app_db.ipynb
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
